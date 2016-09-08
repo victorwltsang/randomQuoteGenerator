@@ -1,0 +1,36 @@
+body {
+  background-color: white;
+  transition: background-color 0.5s ease;
+}
+h3{
+  color:#666;
+}
+
+.center-div {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 900px;
+  height: 500px;
+  background-color: white;
+  border: 4px #cdf solid;
+  border-radius: 20px;
+  padding: 40px;
+}
+
+.tweet {
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.quote-box {
+  position: absolute;
+}
+
+.newQuote {
+  position: relative;
+  top: 375px;
+}
